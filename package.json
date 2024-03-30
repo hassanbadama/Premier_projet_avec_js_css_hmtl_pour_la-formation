@@ -1,0 +1,11 @@
+{
+  "name": "premier_tp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass css/main.scss css/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
